@@ -41,3 +41,13 @@
     font-size: 23px;
     margin:15px
 }
+.PlayButton
+{
+    font-size: 24px;
+    width: 130px;
+}
+canvas
+{
+    border:5px solid white;
+    border-radius: 20px;
+}
